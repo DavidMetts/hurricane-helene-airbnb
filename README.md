@@ -8,9 +8,9 @@ Did Hurricane Helene (September 2024) affect Asheville Airbnb listings, reviews 
 
 - **Airbnb final project (PDF and PowerPoint)**: the full report and slides.
 - **Airbnb project .tfl**: Tableau Prep flow that extracts, cleans, joins and unions quarterly Inside Airbnb files into a single table (900k+ rows, 2012 onward).
-- **NLP_study.ipynb**: pandas and NLTK count of "hurricane" mentions in review text by date.
+- **NLP_study_gtg.ipynb**: pandas and NLTK count of "hurricane" mentions in review text by date.
 - **HURDAT.ipynb**: GeoPandas and Folium overlay of the NOAA storm track on Asheville neighborhoods.
-- **plot_Airbnb.ipynb**: supporting plots.
+- **3_QTRS_plot_Airbnb.ipynb**: supporting plots.
 
 ## Data
 
