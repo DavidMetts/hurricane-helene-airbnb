@@ -15,3 +15,5 @@ Did Hurricane Helene (September 2024) affect Asheville Airbnb listings, reviews 
 ## Data
 
 Inside Airbnb (listings, reviews, neighbourhoods GeoJSON) and NOAA IBTrACS hurricane track. Data files are not included.
+
+Archived course project — spring 2025. Source code, report, and presentation are preserved here. Rerunning the notebooks requires the source datasets and may require code revisions or dependency updates. A clean run in a current environment has not been verified.
